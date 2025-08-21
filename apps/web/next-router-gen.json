@@ -1,0 +1,5 @@
+{
+  "appDir": "./app",
+  "enabled": true,
+  "typescript": true
+}
